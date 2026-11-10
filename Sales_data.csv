@@ -1,0 +1,9 @@
+Order_ID, Region, Product, Sales, Profit, Quantity
+1. West, Laptop,1200,200,2
+2. East, Phone,800,150,3
+3. South, Tablet,500,80,1
+4. North, Monitor,300,50,4
+5. West, Laptop,1500,300,2
+6. East, Phone,900,180,5
+7. South, Tablet,600,90,1
+8. North, Monitor,400,70,3
